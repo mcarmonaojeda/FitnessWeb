@@ -1,0 +1,1 @@
+console.log("Bienvenido a la página Fitness Web");
